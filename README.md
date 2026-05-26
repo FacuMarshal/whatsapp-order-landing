@@ -53,10 +53,3 @@ User selects products → Cart generates order → WhatsApp opens with pre-fille
 
 ![Hero](hero.png)
 
-### Product Catalog
-
-![Catalog](catalog.png)
-
-### WhatsApp Checkout
-
-![Checkout](checkout.png)
